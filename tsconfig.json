@@ -4,12 +4,6 @@
   "files": [],
   "references": [
     {
-      "path": "./apps/shop-cars-e2e"
-    },
-    {
-      "path": "./apps/shop-cars"
-    },
-    {
       "path": "./apps/admin-e2e"
     },
     {
