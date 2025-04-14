@@ -1,0 +1,8 @@
+{
+  "name": "@shop-cars/shop-cars",
+  "version": "0.0.1",
+  "private": true,
+  "nx": {
+    "name": "shop-cars"
+  }
+}
